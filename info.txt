@@ -1,0 +1,5 @@
+used plugins and libraries:
+
+vidbg - https://github.com/blakewilson/vidbg
+aos - https://michalsnik.github.io/aos/
+rellax - https://dixonandmoe.com/rellax/
